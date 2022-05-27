@@ -1,5 +1,6 @@
 - 👋 Olá, Eu sou o Alan Macedo
-- ☁️ AWS
+- ☁️  Aprendendo nuvem AWS
+- 🧠 Aprendendo HTML | CSS | JS
 - 🖥️ Linux
 
 <div align="center">
