@@ -1,5 +1,5 @@
 - 👋 Olá, Eu sou o Alan Macedo
-- ☁️  Aprendendo nuvem AWS
+- 🧠 Aprendendo nuvem AWS
 - 🧠 Aprendendo HTML | CSS | JS
 - 🖥️ Linux
 
